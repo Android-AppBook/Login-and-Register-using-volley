@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login and Register screen using Volley</string>
+    <string name="err_name">Enter Valid Name</string>
+    <string name="err_email">Enter Valid Email</string>
+    <string name="err_password">Enter Password</string>
+    <string name="err_conPass">Enter Confirm Password</string>
+</resources>
